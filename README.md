@@ -15,7 +15,7 @@ I'm a passionate Computer Science student with strong interests in Software Engi
 
 I enjoy building projects, solving coding problems, and learning new technologies that help solve real-world challenges.
 
-* 💻 Solved 200+ LeetCode Problems
+* 💻 Solved 300+ LeetCode Problems
 * ⭐ 5-Star Java Badge on HackerRank
 * 🤖 Machine Learning Intern at APSSDC
 * 🎯 Active Coding Club Member
